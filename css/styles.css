@@ -86,6 +86,11 @@ padding: 0 15px;
   align-items: center;
 }
 
+.header-list {
+ display: flex;
+ gap: 40px;
+}
+
 .header-item{
   
 }
@@ -95,6 +100,7 @@ padding: 0 15px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--text-color);
+  padding: 24px 0;
 }
 
 .header-link:hover {
@@ -106,6 +112,11 @@ padding: 0 15px;
 
 .header-address {
   font-style: normal;
+}
+
+.address-list {
+ display: flex;
+ gap: 40px;
 }
 
 .address-link {
