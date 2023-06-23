@@ -182,6 +182,10 @@ background-color: var(--brand-links-hf);
   |============================
 */
 
+.peculiarities {
+  padding: 120px 0;
+}
+
 .peculiarities-caption {
   font-weight: 500;
   font-size: 20px;
