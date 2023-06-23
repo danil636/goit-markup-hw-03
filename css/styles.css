@@ -190,6 +190,19 @@ background-color: var(--brand-links-hf);
 visibility: hidden;
 }
 
+.peculiarities-list {
+  display: flex;
+  gap: 24px;
+}
+
+.peculiarities-item {
+width: calc((100% - 72px) / 4);
+}
+
+.peculiarities-caption {
+margin-bottom: 8px;
+}
+
 .peculiarities-caption {
   font-weight: 500;
   font-size: 20px;
@@ -208,6 +221,23 @@ letter-spacing: 0.02em;
   | Block 3
   |============================
 */
+
+.activity {
+padding-bottom: 120px;
+}
+
+.activity-title {
+margin-bottom: 72px;
+}
+
+.activity-list {
+  display: flex;
+  gap: 24px;
+}
+
+.activity-item {
+width: calc((100% - 48px) / 3);
+}
 
 .activity-title{
   font-size: 36px;
