@@ -317,6 +317,7 @@ padding: 32px 16px;
 
 .footer {
   background-color: var(--text-color);
+  padding: 100px 0;
 }
 
 .footer-logo {
@@ -327,6 +328,8 @@ padding: 32px 16px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--logo-color);
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-logo-studio {
 color: var(--complementary-color);}
@@ -335,6 +338,7 @@ color: var(--complementary-color);}
   line-height: 1.5;
     color: var(--complementary-color);
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 
 /**
