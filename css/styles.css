@@ -186,6 +186,10 @@ background-color: var(--brand-links-hf);
   padding: 120px 0;
 }
 
+.peculiarities-title {
+visibility: hidden;
+}
+
 .peculiarities-caption {
   font-weight: 500;
   font-size: 20px;
