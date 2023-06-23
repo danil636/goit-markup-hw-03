@@ -139,12 +139,9 @@ color: var(--brand-color);
   |============================
 */
 
-.section .hero {
-padding: 188px 0;
-}
-
 .hero{
 background-color: var(--text-color);
+padding: 188px 0;
 }
 
 .hero-title {
