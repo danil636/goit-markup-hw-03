@@ -347,6 +347,11 @@ color: var(--complementary-color);}
   |============================
 */
 
+.portfolio {
+padding-top: 96px;
+  padding-bottom: 120px;
+}
+
 .portfolio-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
