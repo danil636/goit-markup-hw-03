@@ -74,6 +74,7 @@ img {
 
 .header-conteiner {
   display: flex;
+  align-items: center;
 }
 
 .container {
@@ -101,6 +102,7 @@ padding: 0 15px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--text-color);
+  display: block;
   padding: 24px 0;
 }
 
@@ -157,6 +159,9 @@ text-align: center;
 letter-spacing: 0.02em;
 color: var(--text-color-bg);
 max-width: 496px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 48px;
 }
 
 .hero-btn {
@@ -173,6 +178,8 @@ max-width: 496px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-btn:hover {
